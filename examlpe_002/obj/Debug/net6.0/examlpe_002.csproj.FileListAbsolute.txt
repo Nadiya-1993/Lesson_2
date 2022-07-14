@@ -1,0 +1,15 @@
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\bin\Debug\net6.0\examlpe_002.exe
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\bin\Debug\net6.0\examlpe_002.deps.json
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\bin\Debug\net6.0\examlpe_002.runtimeconfig.json
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\bin\Debug\net6.0\examlpe_002.dll
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\bin\Debug\net6.0\examlpe_002.pdb
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.csproj.AssemblyReference.cache
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.AssemblyInfoInputs.cache
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.AssemblyInfo.cs
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.csproj.CoreCompileInputs.cache
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.dll
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\refint\examlpe_002.dll
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.pdb
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\examlpe_002.genruntimeconfig.cache
+C:\Users\Надюкай\Desktop\Geekbrains\lecture_2\examlpe_002\obj\Debug\net6.0\ref\examlpe_002.dll
